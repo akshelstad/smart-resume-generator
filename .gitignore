@@ -1,17 +1,10 @@
-# 1️⃣ Python (backend/python-ai)
-backend/python-ai/__pycache__/
-backend/python-ai/venv/
-backend/python-ai/.env
-backend/python-ai/*.pyc
-backend/python-ai/*.pyo
-backend/python-ai/*.pyd
-backend/python-ai/.DS_Store
-
 # 2️⃣ Go (backend/go-server)
 backend/go-server/go.sum
 backend/go-server/go.mod
 backend/go-server/bin/
 backend/go-server/.DS_Store
+backend/go-server/smart-resume-generator
+backend/go-server/.env
 
 # 4️⃣ Logs & Debugging
 *.log
